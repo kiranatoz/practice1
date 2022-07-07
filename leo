@@ -1,0 +1,9 @@
+angrybird
+bold
+calm
+dare
+everything
+fat
+gem
+honest
+
